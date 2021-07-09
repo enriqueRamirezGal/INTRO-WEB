@@ -1,0 +1,39 @@
+body{
+    font-family: Verdana;
+    font-size: 1.5em;
+}
+
+h3{
+    color: blue;
+    text-align: center;
+}
+
+
+#main{
+    background-color: gray;
+    padding: 50px 50px 50px 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.alert{
+    color: #72353D;  
+    background-color: #EAD2D5;
+}
+
+#tamanio{
+    border: black 1px solid;
+    width: 40%;
+    padding: 20px 20px 20px 20px;
+    background-color: red;
+    transform: rotate(90deg);
+}
+
+#tamanio2{
+    border: black 1px solid;
+    width: 40%;
+    padding: 20px 20px 20px 20px;
+    background-color: blue;
+    transform: rotate(90deg);
+}
